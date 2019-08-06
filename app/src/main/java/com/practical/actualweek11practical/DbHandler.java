@@ -1,9 +1,7 @@
 package com.practical.actualweek11practical;
 
-import android.accounts.Account;
 import android.content.ContentValues;
 import android.content.Context;
-import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
@@ -57,3 +55,5 @@ public class DbHandler extends SQLiteOpenHelper
 
 
 }
+
+

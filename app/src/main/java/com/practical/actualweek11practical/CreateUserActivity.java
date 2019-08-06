@@ -1,6 +1,5 @@
 package com.practical.actualweek11practical;
 
-import android.accounts.Account;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
